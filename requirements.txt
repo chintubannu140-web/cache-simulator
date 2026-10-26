@@ -1,0 +1,2 @@
+# Optional: needed only for charts, not the simulator or tests.
+matplotlib>=3.6,<4
